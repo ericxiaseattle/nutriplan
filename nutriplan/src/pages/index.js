@@ -31,7 +31,7 @@ export default function Home() {
               </div>
             </div>
             <div>
-              <div>Soy Free: </div>
+              <div>Soy Free: hi</div>
               <div className={styles.toggle}>
                 <Switch onclick={toggler} />
               </div>
